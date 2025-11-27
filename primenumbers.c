@@ -27,7 +27,7 @@ int main ()
 
      /*code by Md Shanoar Showrov
     BSc in CSE , Leading University
-    Email:- ishowrov@gmail.com */
+    Email:- ishowrov4@gmail.com */
     
 
 }
