@@ -23,9 +23,11 @@ int main ()
  }
 
 
-
-
     return 0;
 
+     /*code by Md Shanoar Showrov
+    BSc in CSE , Leading University
+    Email:- ishowrov@gmail.com */
+    
+
 }
-primenumbers.c
